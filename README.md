@@ -16,7 +16,7 @@ It takes about 3n trials to get a reasonably accurate ranking. This is a bit fru
 py path\to\elo_image.py "path\to\images" --base_rating 50 --window_width 1400 --window_height 900
 ```
 
-##Sample output
+## Sample output
 
 The program:
 
