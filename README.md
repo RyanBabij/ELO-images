@@ -20,7 +20,7 @@ py path\to\elo_image.py "path\to\images" --base_rating 50 --window_width 1400 --
 
 The program:
 
-![Screenshot of program](https://raw.githubusercontent.com/RyanBabij/ELO-images/refs/heads/main/SampleOutput/sample.png)
+![Screenshot of program](https://raw.githubusercontent.com/RyanBabij/ELO-images/refs/heads/main/sample.png)
 
 JSON output:
 
